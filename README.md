@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![](https://images.cooltext.com/5508510.png)
+![](https://![image](https://user-images.githubusercontent.com/99995920/155677995-da752452-b02c-4b85-b1a7-0be0f67657c5.png)
+.png)
 
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
