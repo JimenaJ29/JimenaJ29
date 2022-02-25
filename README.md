@@ -53,3 +53,15 @@ PARA CREAR TABLAS
 Cooltext.com
 
 https://www.tablesgenerator.com/markdown_tables.
+| hora        | lunes      | martes   | miercoles  | jueves     | viernes  |
+|-------------|------------|----------|------------|------------|----------|
+| 11:05-11:55 |            | M.R.C    |            |            | M.R.C    |
+| 12:00-12:50 |            | M.R.C    |            |            | M.R.C    |
+| 12:55-13:45 | BIOLOGIA   | BIOLOGIA |            |            | MATE     |
+| 13:50-14:40 | MATE       | A.F.D.R  | MATE       | LITERATURA | BIOLOGIA |
+| 14:45-15:35 | LITERATURA | MATE     | FISICA     | MATE       | FISICA   |
+| 15:40-16:30 | FISICA     | HISTORIA | LITERATURA | HISTORIA   | INGLES   |
+| 16:30-17:00 | RECESO     | RECESO   | RECESO     | RECESO     | RECESO   |
+| 17:00-17:50 | C.V        | FISICA   | C.V        | A.A.C      |          |
+| 17:55-18:45 | C.V        |          | INGLES     | FISICA     |          |
+| 18:50-19:40 | HISTORIA   |          | BIOLOGIA   | INGLES     |          |
